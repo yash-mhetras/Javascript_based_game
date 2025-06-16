@@ -7,7 +7,6 @@ A classic **Snake Game** built entirely with **pure JavaScript**, **HTML**, and 
 ## 🎮 Features
 
 - 🎯 Keyboard-based real-time gameplay
-- 🔁 Game loop implemented using `setInterval()`
 - 💥 Collision detection (wall + self)
 - 💡 Dynamic speed and difficulty control
 - 🧠 Score tracking and reset functionality
